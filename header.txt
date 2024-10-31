@@ -1,6 +1,4 @@
 hello from main branch 
-bla bla bla
-add some changes from main branch
-
+add some changes from first branch
 
 add some text from another (first) branch
